@@ -1,5 +1,10 @@
 # LMS Data Pipeline: Azure Data Lake to Microsoft Fabric
 
+#### (⚠️ This notebook is designed to run in Microsoft Fabric or Azure Synapse Analytics using PySpark. GitHub may not render interactive elements properly. Please export the notebook as HTML to share results or run it directly in the Fabric environment.)
+
+GitHub may not render interactive elements properly. Please export the notebook as HTML to share results or run it directly in the Fabric environment.
+
+
 ### Overview
 
 This project demonstrates an end-to-end data pipeline for processing daily LMS data using Microsoft Fabric, with layered architecture (Bronze, Silver, Gold), upsert logic, and complete orchestration.
